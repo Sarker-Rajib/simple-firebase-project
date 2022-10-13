@@ -21,4 +21,15 @@ initial setup ///
 // -----------
  Display Data
 // -----------
+
+// -----------
+ add a new sign in method
+ // -----------
+* create a new app in guthub 
+* get client id abd secret
+* 
+* 
+* 
+* 
+* 
 * 
