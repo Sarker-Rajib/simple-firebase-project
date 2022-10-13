@@ -66,7 +66,9 @@ function App() {
 
       {user.uid && <div>
         <p>User Name : {user.displayName}</p>
-        <p>Email : {user.email}</p>
+        {user.email &&
+          <p>Email : {user.email}</p>
+        }
         <img src={user.photoURL} alt={user.displayName} />
       </div>}
     </div>
